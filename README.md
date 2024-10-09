@@ -6,15 +6,22 @@
 
 I am a computer graduate. I am expanding my knowledge in both front-end and back-end development, and I work as a developer in a company that creates systems for students and administrative staff. I love to learn and build something new, productive, innovative and creative.
 
-- 🌱 I’m currently learning ...
+<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
+
+
+- 🌱 I’m currently learning **WEB Development Full-Stack**
 - 
-  -Stack MERN
+  **Stack MERN**
 - 💬 Ask Me About: .Net, SQL, Web Development, Anime, Node js, Express,Postgresql,Net core,Web APIS, APi rest, or anything.
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, 🎮 playing videogames, 🎵 listening to music.
   
 - 📫 Reach out to me at: <a href="oalfarocontacto@gmail.com">oalfarocontacto@gmail.com</a>
+
+
+
+<br>
 
 ## My Skills Include
 
