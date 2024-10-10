@@ -48,3 +48,9 @@ I have a bachelor degree in computacion. I am expanding my knowledge in both fro
    
  
 </span>
+
+<h4>Services & Tools</h4>
+<span>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+ <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+</span>
