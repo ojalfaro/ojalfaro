@@ -4,7 +4,7 @@
 
 ***About me***
 
-I have a bachelor degree. I am expanding my knowledge in both front-end and back-end development, and I work as a developer in a company that creates systems for students and administrative staff. I love to learn and build something new, productive, innovative and creative.
+I have a bachelor degree in computacion. I am expanding my knowledge in both front-end and back-end development, and I work as a developer in a company that creates systems for students and administrative staff. I love to learn and build something new, productive, innovative and creative.
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
