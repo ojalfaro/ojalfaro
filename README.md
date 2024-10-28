@@ -17,7 +17,7 @@ I have a bachelor degree in computacion. I am expanding my knowledge in both fro
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, 🎮 playing videogames, 🎵 listening to music.
   
-- 📫 Reach out to me at: <a href="oalfarocontacto@gmail.com">oalfarocontacto@gmail.com</a>
+- 📫 Reach out to me
 
 
 
